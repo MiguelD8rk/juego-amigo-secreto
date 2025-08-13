@@ -19,3 +19,34 @@ function agregarAmigo() {
         actualizarLista();  // Actualizar la lista visual
     }
 }
+
+// Función para actualizar la lista de amigos en el HTML
+function actualizarLista() {
+    let lista = document.getElementById('listaAmigos');
+    lista.innerHTML = ''
+
+    // Recorrer el array de amigos y agregar cada uno como <li> en la lista
+    for (let i = 0; i < amigos.length; i++) {
+        let li = document.createElement('li');
+        li.textContent = amigos[i];
+        lista.appendChild(li);  // Añadir cada amigo a la lista en HTML
+    }
+}
+
+// Función para sortear un amigo aleatoriamente
+function sortearAmigo() {
+    // Verificar si hay amigos en la lista antes de sortear
+    if (amigos.length === 0) {
+        let resultadoElemento = document.getElementById('resultado');
+        resultadoElemento.innerHTML = 'No hay amigos en la lista para sortear.';
+    } else {
+        // Generar un índice aleatorio dentro del rango de la lista
+        let indiceAleatorio = Math.floor(Math.random() * amigos.length);
+        let amigoSorteado = amigos.splice(indiceAleatorio, 1)[0]; // Elimina al sorteado
+
+        // Mostrar el amigo sorteado en la interfaz
+        let resultadoElemento = document.getElementById('resultado');
+        resultadoElemento.innerHTML = `El amigo sorteado es: ${amigoSorteado}`;
+        actualizarLista(); // Refresca la lista visual sin el sorteado 
+    }
+}
