@@ -1,6 +1,3 @@
-<h1 align="center" style="color: #4CAF50;">Amigo Secreto</h1>
-
-<!-- Esta es la imagen de portada, asegúrate de que esté en la carpeta correcta -->
 <p align="center">
   <img src="./assets/logo.png" alt="Logo de Amigo Secreto" width="400"/>
 </p>
@@ -25,6 +22,10 @@ Desarrollado con **JavaScript**, **HTML** y **CSS**, este proyecto tiene como ob
 
 ---
 
+## Autor
+
+Este proyecto fue creado y desarrollado por **Miguel Ángel de la Cruz Lázaro**.
+
 ## Instalación
 
 Este proyecto no requiere dependencias externas. Para ejecutarlo en tu máquina local, sigue estos pasos:
@@ -34,4 +35,5 @@ Este proyecto no requiere dependencias externas. Para ejecutarlo en tu máquina 
 Abre tu terminal y ejecuta:
 
 ```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/MiguelD8rk/amigo-secreto.git
+
