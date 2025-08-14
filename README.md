@@ -26,14 +26,6 @@ Desarrollado con **JavaScript**, **HTML** y **CSS**, este proyecto tiene como ob
 
 Este proyecto fue creado y desarrollado por **Miguel Ángel de la Cruz Lázaro**.
 
-## Instalación
 
-Este proyecto no requiere dependencias externas. Para ejecutarlo en tu máquina local, sigue estos pasos:
 
-### 1. Clonar el repositorio
-
-Abre tu terminal y ejecuta:
-
-```bash
-git clone https://github.com/MiguelD8rk/amigo-secreto.git
 
