@@ -65,7 +65,7 @@ Se realizan cinco sorteos consecutivos: cada vez que se selecciona un amigo, se 
 Al finalizar, se muestra un mensaje indicando que ya no hay más amigos para sortear.
 
 <p align="center">
-  <img src="./assets/Demo-amigo-secreto-sorteo.gif" alt="Demostración del sorteo completo" width="700"/>
+  <img src="./assets/demo-amigo-secreto-sorteo.gif" alt="Demostración del sorteo completo" width="700"/>
 </p>
 
 ---
