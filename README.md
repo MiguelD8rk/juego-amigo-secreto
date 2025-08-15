@@ -2,6 +2,12 @@
   <img src="./assets/logo.png" alt="Logo de Amigo Secreto" width="400"/>
 </p>
 
+<h1 align="center">🎯 Challenge Amigo Secreto</h1>
+
+<p align="center">
+  <img src="./assets/3-oracle-alura.png" alt="Oracle + Alura Latam" width="250"/>
+</p>
+
 ## 🎁 Amigo Secreto - Proyecto Web
 
 [![Ver en línea](https://img.shields.io/badge/🟢%20Ver%20la%20aplicación%20en%20GitHub%20Pages-blue?style=for-the-badge)](https://migueld8rk.github.io/juego-amigo-secreto/)
@@ -13,6 +19,16 @@ Bienvenido al proyecto **Amigo Secreto**, una aplicación web interactiva para r
 - ✅ Realizar sorteos aleatorios de forma sencilla.
 
 Desarrollado con **JavaScript**, **HTML** y **CSS**, este proyecto busca facilitar sorteos entre amigos, familiares o compañeros de trabajo.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+</p>
 
 ---
 
@@ -72,7 +88,7 @@ Al finalizar, se muestra un mensaje indicando que ya no hay más amigos para sor
 
 ## ✍️ Autor
 
-Proyecto desarrollado por Miguel Ángel de la Cruz Lázaro como parte de mi formación en desarrollo web.
+Proyecto desarrollado por **Miguel Ángel de la Cruz Lázaro** como parte de mi formación en el programa **ONE - Oracle Next Education**, en la ruta de **Principiante en Programación (G9)**, impulsado por **Alura Latam** y **Oracle**.
 
 ---
 
