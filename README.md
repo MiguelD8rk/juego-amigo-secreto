@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="./assets/logo.png" alt="Logo de Amigo Secreto" width="400"/>
-</p>
-
 <h1 align="center">🎯 Challenge Amigo Secreto</h1>
 
 <p align="center">
   <img src="./assets/3-oracle-alura.png" alt="Oracle + Alura Latam" width="250"/>
 </p>
-
-## 🎁 Amigo Secreto - Proyecto Web
 
 [![Ver en línea](https://img.shields.io/badge/🟢%20Ver%20la%20aplicación%20en%20GitHub%20Pages-blue?style=for-the-badge)](https://migueld8rk.github.io/juego-amigo-secreto/)
 
@@ -86,10 +80,15 @@ Al finalizar, se muestra un mensaje indicando que ya no hay más amigos para sor
 
 ---
 
+<p align="center">
+  <img src="./assets/logo.png" alt="Logo de Amigo Secreto" width="200"/>
+</p>
+
 ## ✍️ Autor
 
 Proyecto desarrollado por **Miguel Ángel de la Cruz Lázaro** como parte de mi formación en el programa **ONE - Oracle Next Education**, en la ruta de **Principiante en Programación (G9)**, impulsado por **Alura Latam** y **Oracle**.
 
 ---
 
-¡Gracias por visitar este repositorio!
+<p align="center"><em>¡Gracias por visitar este repositorio!</em></p>
+
